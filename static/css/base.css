@@ -38,7 +38,13 @@ body {
     color: white;
 }
 
+.header-bg{
+    background-color: #222222;
+}
 
+.bg-white{
+    background-color: white;
+}
 
 .shop-now-button:hover,
 .shop-now-button:active,
