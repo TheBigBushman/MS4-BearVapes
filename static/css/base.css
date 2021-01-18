@@ -8,7 +8,7 @@ body {
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Lato';
-    padding-top: 65px;
+    padding-top: 130px;
 }
 
 .nav-item{
@@ -86,6 +86,21 @@ body {
     font-family: 'Arimo', sans-serif;;
 }
 
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
+}
+
+.products-hr{
+    width: 90%;
+    margin-bottom: 30px;
+    margin-left: 5%;
+}
 
 /* -------------------------------- Media Queries */
 
