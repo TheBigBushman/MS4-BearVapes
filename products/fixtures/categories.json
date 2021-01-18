@@ -1,0 +1,58 @@
+[
+  {
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+      "name": "beginner_starter_kits",
+      "friendly_name": "Beginner & Starter Kits"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+      "name": "top_end_models",
+      "friendly_name": "Top End Models"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+      "name": "accessories",
+      "friendly_name": "accessories"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+      "name": "deals",
+      "friendly_name": "Deals"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+      "name": "10ml_flavours",
+      "friendly_name": "10ml & flavours"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.category",
+    "fields": {
+      "name": "shortfills_nicshots",
+      "friendly_name": "Shortfills & Nicshots"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.category",
+    "fields": {
+      "name": "vape_box",
+      "friendly_name": "Vape Boxes"
+    }
+  }
+]

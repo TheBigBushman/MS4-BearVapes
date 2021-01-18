@@ -1,0 +1,198 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0001",
+      "name": "Vape juice sample 1",
+      "description": "Menthol Vape juice",
+      "price": 9.99,
+      "category": 6,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0709201205510679M.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0002",
+      "name": "British rule vape 10ml",
+      "description": "Description goes here",
+      "price": 58.99,
+      "category": 4,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0113201617034987M.jpg"
+    }
+  },
+    {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0003",
+      "name": "Bear Vapes Home Brew E-liquid",
+      "description": "A delightful beer flavoured vape.",
+      "price": 9.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0716201503423610M.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0004",
+      "name": "Festival blonde vape 10ml",
+      "description": "Description goes here",
+      "price": 169.99,
+      "category": 7,
+      "rating": 3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0716201503423610M.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0005",
+      "name": "Fizzy Kush vape 10ml",
+      "description": "Description goes here",
+      "price": 169.99,
+      "category": 7,
+      "rating": 3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0716201503423610M.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0006",
+      "name": "The waking dread vape 10ml",
+      "description": "Description goes here",
+      "price": 30.99,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0624201520422666C.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0007",
+      "name": "Impeachment vape 10ml",
+      "description": "Description goes here",
+      "price": 59,
+      "category": 4,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "DP0226201317034754M.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0008",
+      "name": "Demons Choice vape 10ml",
+      "description": "Description goes here",
+      "price": 36.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0926201317071162M.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0009",
+      "name": "Sunshine vape 10ml",
+      "description": "Description goes here.",
+      "price": 36.99,
+      "category": 7,
+      "rating": 4.5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0926201317071162M.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0010",
+      "name": "Nautilous Super Vape",
+      "description": "Description goes here",
+      "price": 33.99,
+      "category": 7,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0418201317011949M.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp00115",
+      "name": "Shortfill E-liquid Tobacco 0mg",
+      "description": "Description goes here",
+      "price": 29.99,
+      "category": 4,
+      "rating": 3,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "0900631B81B0C2D9M.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0012",
+      "name": "Shortfill Menthol 0mg",
+      "description": "Description goes here",
+      "price": 19.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0510201317010521M.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0013",
+      "name": "Aspire Pokex Coils",
+      "description": "Description goes here",
+      "price": 20,
+      "category": 4,
+      "rating": 3.2,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "DP0430201405053680M.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp0014",
+      "name": "Aspire Ecig",
+      "description": "Description goes here",
+      "price": 26.99,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "0900631B81C9387BM.jpg"
+    }
+  }
+]
