@@ -21,11 +21,11 @@
             <a class="font-weight-bold nav-link text-white mr-5 lobster nav-font" href="#" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Vapes
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Beginner &amp; Starter Kits</a>
-                <a href="" class="dropdown-item">Top End models</a>
-                <a href="" class="dropdown-item">Accessories</a>
-                <a href="" class="dropdown-item">All Vapes & Modz</a>
+            <div class="dropdown-menu border-0" aria-labelledby="vape-kits">
+                <a href="{% url 'products' %}?category=beginner_starter_kits" class="dropdown-item">Beginner &amp; Starter Kits</a>
+                <a href="{% url 'products' %}?category=top_end_models" class="dropdown-item">Top End models</a>
+                <a href="{% url 'products' %}?category=accessories" class="dropdown-item">Accessories</a>
+                <a href="{% url 'products' %}?category=beginner_starter_kits,top_end_models,accessories" class="dropdown-item">All Vapes & Modz</a>
             </div>
         </li>
 
@@ -34,9 +34,9 @@
                 E-liquid
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">10ml &amp; flavours</a>
-                <a href="" class="dropdown-item">Shortfills &amp; Nic Shots</a>
-                <a href="" class="dropdown-item">All E-liquid</a>
+                <a href="{% url 'products' %}?category=10ml_flavours" class="dropdown-item">10ml &amp; flavours</a>
+                <a href="{% url 'products' %}?category=shortfills_nicshots" class="dropdown-item">Shortfills &amp; Nic Shots</a>
+                <a href="{% url 'products' %}?category=10ml_flavours,shotfills_nicshots" class="dropdown-item">All E-liquid</a>
             </div>
         </li>
 
