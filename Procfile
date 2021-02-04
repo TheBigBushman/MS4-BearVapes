@@ -1,0 +1,1 @@
+web: gunicorn bear_vapes.wsgi:application
