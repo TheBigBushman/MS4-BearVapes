@@ -28,6 +28,7 @@ h1{
     margin-right: 19%;
 }
 
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -319,6 +320,9 @@ a.category-badge > span.badge:hover {
         right: 0;
         left: 0;
         z-index: 1030;
+    }
+    #about{
+    margin-left: 30px;
     }
 
     .header-container {
